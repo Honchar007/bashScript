@@ -6,4 +6,4 @@ read b
 let "e = a/b"
 let "nd = a%b"
 echo "$a/$b = $e.$nd"
-
+echo "ARTEM LOSHARA"
